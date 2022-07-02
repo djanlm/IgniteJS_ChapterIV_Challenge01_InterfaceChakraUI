@@ -1,0 +1,196 @@
+{
+  "continents": [
+    {
+      "name": "Europa",
+      "description": "O continente mais antigo.",
+      "about": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+      "srcHeroImage": "/assets/img/Europa.svg",
+      "generalInfo": {
+        "numberOfCountries": "50",
+        "numberOfLanguages": "60",
+        "numberOfCities": "27"
+      },
+      "cities": [
+        {
+          "name": "Londres",
+          "país": "Reino Unido",
+          "flagCode": "gb",
+          "srcPicture": "/assets/img/london.png"
+        },
+        {
+          "name": "Paris",
+          "país": "França",
+          "flagCode": "fr",
+          "srcPicture": "/assets/img/paris.png"
+        },
+        {
+          "name": "Roma",
+          "país": "Itália",
+          "flagCode": "it",
+          "srcPicture": "/assets/img/roma.png"
+        },
+        {
+          "name": "Praga",
+          "país": "República Tcheca",
+          "flagCode": "cz",
+          "srcPicture": "/assets/img/praga.png"
+        },
+        {
+          "name": "Amsterdan",
+          "país": "Holanda",
+          "flagCode": "nl",
+          "srcPicture": "/assets/img/amsterdan.png"
+        }
+      ]
+    },
+    {
+      "name": "América",
+      "description": "O novo continente.",
+      "about": "América é o continente localizado no hemisfério ocidental e que se estende, no sentido norte-sul, desde o oceano Ártico até o cabo Horn, ao longo de cerca de 15 mil quilômetros. O seu extremo oriental insular (não continental) encontra-se na Groenlândia, o Nordostrundingen, enquanto o ocidental localiza-se nas Aleutas. Já os extremos continentais (não insulares) são o cabo Príncipe de Gales, o extremo ocidental, no Alasca, e a ponta do Seixas, extremo oriental, no estado brasileiro da Paraíba.",
+      "srcHeroImage": "/assets/img/rioDeJaneiro.jpg",
+
+      "generalInfo": {
+        "numberOfCountries": "35",
+        "numberOfLanguages": "90",
+        "numberOfCities": "19"
+      },
+      "cities": [
+        {
+          "name": "Rio de Janeiro",
+          "país": "Brasil",
+          "flagCode": "br",
+          "srcPicture": "/assets/img/rioDeJaneiro.jpg"
+        },
+        {
+          "name": "Machu Pichu",
+          "país": "Peru",
+          "flagCode": "pe",
+          "srcPicture": "/assets/img/machuPichu.jpg"
+        },
+        {
+          "name": "Toronto",
+          "país": "Canada",
+          "flagCode": "ca",
+          "srcPicture": "/assets/img/toronto.jpg"
+        },
+        {
+          "name": "Buenos Aires",
+          "país": "Argentina",
+          "flagCode": "ar",
+          "srcPicture": "/assets/img/buenosAires.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ásia",
+      "description": "O extremo oriente.",
+      "about": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering.",
+      "srcHeroImage": "/assets/img/tokyo.jpg",
+      "generalInfo": {
+        "numberOfCountries": "35",
+        "numberOfLanguages": "90",
+        "numberOfCities": "19"
+      },
+      "cities": [
+        {
+          "name": "Bangkok",
+          "país": "Tailândia",
+          "flagCode": "th",
+          "srcPicture": "/assets/img/bangkok.jpg"
+        },
+        {
+          "name": "Macau",
+          "país": "China",
+          "flagCode": "cn",
+          "srcPicture": "/assets/img/macau.jpg"
+        },
+        {
+          "name": "Singapura",
+          "país": "Singapura",
+          "flagCode": "ca",
+          "srcPicture": "/assets/img/singapore.jpg"
+        },
+        {
+          "name": "Tóquio",
+          "país": "Japão",
+          "flagCode": "jp",
+          "srcPicture": "/assets/img/tokyo.jpg"
+        }
+      ]
+    },
+    {
+      "name": "África",
+      "description": "Natureza por toda parte.",
+      "about": "América é o continente localizado no hemisfério ocidental e que se estende, no sentido norte-sul, desde o oceano Ártico até o cabo Horn, ao longo de cerca de 15 mil quilômetros. O seu extremo oriental insular (não continental) encontra-se na Groenlândia, o Nordostrundingen, enquanto o ocidental localiza-se nas Aleutas. Já os extremos continentais (não insulares) são o cabo Príncipe de Gales, o extremo ocidental, no Alasca, e a ponta do Seixas, extremo oriental, no estado brasileiro da Paraíba.",
+      "srcHeroImage": "/assets/img/tokyo.jpg",
+      "generalInfo": {
+        "numberOfCountries": "35",
+        "numberOfLanguages": "90",
+        "numberOfCities": "19"
+      },
+      "cities": [
+        {
+          "name": "Bangkok",
+          "país": "Tailândia",
+          "flagCode": "th",
+          "srcPicture": "/assets/img/bangkok.jpg"
+        },
+        {
+          "name": "Macau",
+          "país": "China",
+          "flagCode": "cn",
+          "srcPicture": "/assets/img/macau.jpg"
+        },
+        {
+          "name": "Singapura",
+          "país": "Singapura",
+          "flagCode": "ca",
+          "srcPicture": "/assets/img/singapore.jpg"
+        },
+        {
+          "name": "Tóquio",
+          "país": "Japão",
+          "flagCode": "jp",
+          "srcPicture": "/assets/img/tokyo.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Oceania",
+      "description": "O novíssimo continente.",
+      "about": "América é o continente localizado no hemisfério ocidental e que se estende, no sentido norte-sul, desde o oceano Ártico até o cabo Horn, ao longo de cerca de 15 mil quilômetros. O seu extremo oriental insular (não continental) encontra-se na Groenlândia, o Nordostrundingen, enquanto o ocidental localiza-se nas Aleutas. Já os extremos continentais (não insulares) são o cabo Príncipe de Gales, o extremo ocidental, no Alasca, e a ponta do Seixas, extremo oriental, no estado brasileiro da Paraíba.",
+      "srcHeroImage": "/assets/img/tokyo.jpg",
+      "generalInfo": {
+        "numberOfCountries": "35",
+        "numberOfLanguages": "90",
+        "numberOfCities": "19"
+      },
+      "cities": [
+        {
+          "name": "Bangkok",
+          "país": "Tailândia",
+          "flagCode": "th",
+          "srcPicture": "/assets/img/bangkok.jpg"
+        },
+        {
+          "name": "Macau",
+          "país": "China",
+          "flagCode": "cn",
+          "srcPicture": "/assets/img/macau.jpg"
+        },
+        {
+          "name": "Singapura",
+          "país": "Singapura",
+          "flagCode": "ca",
+          "srcPicture": "/assets/img/singapore.jpg"
+        },
+        {
+          "name": "Tóquio",
+          "país": "Japão",
+          "flagCode": "jp",
+          "srcPicture": "/assets/img/tokyo.jpg"
+        }
+      ]
+    }
+  ]
+}
